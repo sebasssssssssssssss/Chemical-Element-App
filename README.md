@@ -19,5 +19,5 @@ licensed under the [MIT License](https://github.com/thetechnohack/Periodic-Table
 ## Installation
 - Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/periodic-table-app.git
-   cd periodic-table-app
+   git clone https://github.com/yourusername/chemical-element-app.git
+   cd chemical-element-app
