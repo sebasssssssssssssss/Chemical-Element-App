@@ -24,3 +24,7 @@ This is my first small project, and I want to come back in the future to track m
    ```bash
    git clone https://github.com/yourusername/chemical-element-app.git
    cd chemical-element-app
+
+## Screenshots
+![Chemical Element Screenshot](images/chemical%20element.png)
+
