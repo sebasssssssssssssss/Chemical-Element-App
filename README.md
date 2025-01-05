@@ -26,5 +26,5 @@ This is my first small project, and I want to come back in the future to track m
    cd chemical-element-app
 
 ## Screenshots
-![Chemical Element Screenshot](images/chemical%20element.png)
+![Chemical Element Screenshot](img/chemical%20element.png)
 
