@@ -16,6 +16,9 @@ licensed under the [MIT License](https://github.com/thetechnohack/Periodic-Table
 - Python 3.8 or higher
 - PyQt5 library
 
+## Purpose
+This is my first small project, and I want to come back in the future to track my progress over the years. It uses basic functionality of the PyQt5 library in python 
+
 ## Installation
 - Clone the repository:
    ```bash
